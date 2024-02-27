@@ -1,8 +1,8 @@
-import exp from "constants";
-
 const DashboardPage = () => {
   return (
-    <p>Dashboard Page (Protected)</p>
+    <div>
+      <p>Dashboard Page (Protected)</p>
+    </div>
   )
 }
 
